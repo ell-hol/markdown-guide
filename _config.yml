@@ -1,6 +1,6 @@
 title: "Markdown Guide"
 url: ell-hol.github.io # site url
-baseurl: "markdown-guide" # apply repo name if use it under gh-pages branch
+baseurl: "/markdown-guide" # apply repo name if use it under gh-pages branch
 
 repo: https://github.com/ell-hol/markdown-guide
 comments: false
